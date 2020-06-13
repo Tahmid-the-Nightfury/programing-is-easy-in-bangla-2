@@ -1,0 +1,138 @@
+*{
+    margin:0 auto;
+}
+.container-1{
+    margin: 0 auto;
+    background-color: darkslategray
+}
+
+
+.image{
+    height: 100px;
+    width: 150px;
+    float: left;
+    padding-left: 20px;
+}
+.file{
+    float: left;
+    padding-top: 30px;
+    padding-left: 20px;
+    font-family: 'Roboto', sans-serif;
+    color:white;
+}
+.nav-menu{ 
+    font-family: 'Roboto', sans-serif;
+
+}
+.nav-menu ul{
+
+}
+.nav-menu ul li{ 
+    list-style-type: none;
+    float: right;
+    padding: 30px;
+    font-size: 30px;
+
+}
+.nav-menu ul li a{ 
+    text-decoration: none;
+    color: white;
+
+}
+.hoover-1:hover{
+   background-color:#4CAF50;
+   color: white;
+}
+.clear{
+    clear: both;
+}
+.line-break-1{
+    border-color: darkslategray;
+    border-width: 20%;
+    margin: 10px auto;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.clear{
+    clear: both;
+}
+.container-2{
+    max-width: 80%;
+    margin: 0 auto;
+    background-color: white;
+}
+.card-1{
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+    border-width: 1px;
+    height: 100%;
+    width: 350px;
+    float: left;
+}
+.image-1{
+    height: 300px;
+    width: 350px;
+}
+.heading-1{
+    font-family: 'Metal Mania', cursive;
+    color: cornflowerblue;
+    margin: 0 auto;
+    text-align: center;
+}
+.writing-1{
+    font-family:'Tenali Ramakrishna', sans-serif;
+    padding-left: 5px;
+}
+.card-2{
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+    border-width: 1px;
+    height: 100%;
+    width: 350px;
+    float: left;
+}
+.heading-2{
+    font-family: 'Metal Mania', cursive;
+    color: #c92c2c;
+    margin: 0 auto;
+    text-align: center; 
+}
+.writing-2{
+    font-family:'Tenali Ramakrishna', sans-serif;
+    padding-left: 5px;
+}
+.card-3{
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+    border-width: 1px;
+    height: 100%;
+    width: 350px;
+    float: left;
+}
+.heading-3{
+    font-family: 'Metal Mania', cursive;
+    color: darkslategray;
+    margin: 0 auto;
+    text-align: center; 
+}
+.writing-3{
+    font-family:'Tenali Ramakrishna', sans-serif;
+    padding-left: 5px;  
+}
+.bottom-container{
+    background-color: darkslategray;
+    max-width: 80%;
+    margin: 0px auto;
+    padding: 25px;
+    margin-top: 10px;
+}
+.bottom-container a{
+    color: white;
+    margin: 20px;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    margin-left: 100px;
+}
